@@ -2,7 +2,7 @@ const BLOG = {
   title: '阿秋',
   author: '阿秋',
   email: '2538142956@qq.com',
-  link:'https://www.mzkz.work/',
+  link:'https://qpkkrgeuanuylnfaeoxg.supabase.co',
   newsletter: '阿秋的周刊',
   description: '一个静悄悄的博客.',
   notes: '阿秋的笔记',
