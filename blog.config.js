@@ -4,7 +4,7 @@ const BLOG = {
   email: '2538142956@qq.com',
   link: 'https://mzkz.work',
   newsletter: '阿秋的周刊',
-  description: '一个静悄悄的博客.',
+  description: '寒灯纸上梨花雨凉 我等风雪又一年.',
   notes: '阿秋的笔记',
   notesNav: {
     index: '全部笔记',
