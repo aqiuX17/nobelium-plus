@@ -30,9 +30,9 @@ const BLOG = {
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-zl.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: {
-    twitter: 'https://twitter.com/izuolan',
-    github: 'https://github.com/izuolan',
-    telegram: 'https://t.me/zuolan'
+    twitter:'https://twitter.com/iSUaAfrAgAHLlF1?t=EQ7zDlRhegZ4XvKnfCkM5g&s=09',
+    github:'https://github.com/aqiuX17',
+    telegram:'https://t.me/aqiuX17'
   },
   seo: {
     keywords: ['阿秋', 'aqiu', 'Blog'],
