@@ -1,11 +1,11 @@
 const BLOG = {
-  title: '左蓝',
-  author: '左蓝',
-  email: 'i@zuolan.me',
-  link: 'https://zuolan.me',
-  newsletter: '左蓝的周刊',
+  title: '阿秋',
+  author: '阿秋',
+  email: '2538142956@qq.com',
+  link: 'https://www.mzkz.work/',
+  newsletter: '阿秋的周刊',
   description: '一个静悄悄的博客.',
-  notes: '左蓝的笔记',
+  notes: '阿秋的笔记',
   notesNav: {
     index: '全部笔记',
     blog: '返回博客',
@@ -35,7 +35,7 @@ const BLOG = {
     telegram: 'https://t.me/zuolan'
   },
   seo: {
-    keywords: ['左蓝', 'Zuolan', 'Blog'],
+    keywords: ['阿秋', 'aqiu', 'Blog'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
@@ -62,10 +62,10 @@ const BLOG = {
   },
   comment: {
     // support provider: gitalk, utterances, cusdis, supacomments
-    provider: '', // leave it empty if you don't need any comment plugin
+    provider: 'supacomments', // leave it empty if you don't need any comment plugin
     supaCommentsConfig: {
-      supabaseUrl: '', // The url of your Supabase instance
-      supabaseAnonKey: '', // The anonymous key of your Supabase instance
+      supabaseUrl: 'https://qpkkrgeuanuylnfaeoxg.supabase.co', // The url of your Supabase instance
+      supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFwa2tyZ2V1YW51eWxuZmFlb3hnIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NTEzMTI1OTIsImV4cCI6MTk2Njg4ODU5Mn0.1z1_525G8JFJRh9zwa2h5ItoF9LzLdJVRAhf6yXuglU', // The anonymous key of your Supabase instance
     },
     gitalkConfig: {
       repo: '', // The repository of store comments
