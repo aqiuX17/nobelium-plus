@@ -64,8 +64,8 @@ const BLOG = {
     // support provider: gitalk, utterances, cusdis, supacomments
     provider: 'supacomments', // leave it empty if you don't need any comment plugin
     supaCommentsConfig: {
-      supabaseUrl: 'https://qpkkrgeuanuylnfaeoxg.supabase.co', // The url of your Supabase instance
-      supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFwa2tyZ2V1YW51eWxuZmFlb3hnIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NTEzMTI1OTIsImV4cCI6MTk2Njg4ODU5Mn0.1z1_525G8JFJRh9zwa2h5ItoF9LzLdJVRAhf6yXuglU', // The anonymous key of your Supabase instance
+      supabaseUrl:'https://qpkkrgeuanuylnfaeoxg.supabase.co',// The url of your Supabase instance
+      supabaseAnonKey:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFwa2tyZ2V1YW51eWxuZmFlb3hnIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NTEzMTI1OTIsImV4cCI6MTk2Njg4ODU5Mn0.1z1_525G8JFJRh9zwa2h5ItoF9LzLdJVRAhf6yXuglU',// The anonymous key of your Supabase instance
     },
     gitalkConfig: {
       repo: '', // The repository of store comments
