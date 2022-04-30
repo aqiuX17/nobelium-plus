@@ -2,7 +2,7 @@ const BLOG = {
   title: '阿秋',
   author: '阿秋',
   email: '2538142956@qq.com',
-  link:'https://www.mzkz.work/'
+  link:'https://mzkz.work/'
   newsletter: '阿秋的周刊',
   description: '一个静悄悄的博客.',
   notes: '阿秋的笔记',
@@ -13,7 +13,7 @@ const BLOG = {
   },
   notesLink: {
     index: '/',
-    blog: 'https://www.mzkz.work/'
+    blog: 'https://mzkz.work/'
     contact: 'https://www.mzkz.work/contact'
   },
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
