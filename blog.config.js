@@ -13,7 +13,7 @@ const BLOG = {
   },
   notesLink: {
     index: '/',
-    blog: 'https://www.mzkz.work/',
+    blog: 'https://www.mzkz.work/'
     contact: 'https://www.mzkz.work/contact'
   },
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
