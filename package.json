@@ -5,11 +5,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/izuolan/nobelium-plus.git"
+    "url": "https://github.com/aqiuX17"
   },
   "author": {
-    "name": "Zuo Lan",
-    "email": "i@zuolan.me",
+    "name": "阿秋",
+    "email": "2538142956@qq.com",
     "url": "https://zuolan.me"
   },
   "scripts": {
@@ -54,7 +54,7 @@
     "tailwindcss": "^3.0.23"
   },
   "bugs": {
-    "url": "https://github.com/izuolan/nobelium-plus/issues",
-    "email": "i@zuolan.me"
+    "url": "https://github.com/aqiuX17",
+    "email": "2538142956@qq.com"
   }
 }
